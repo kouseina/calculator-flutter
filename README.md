@@ -1,16 +1,10 @@
-# calculator
+# Flutter Calculator
 
-A new Flutter project.
+![](https://ik.imagekit.io/kouseina/calculator-flutter/banner_kEm_ld15T.jpg?updatedAt=1631519706621)
 
-## Getting Started
+## [Watch it](https://www.youtube.com/watch?v=EmtM4cx7858)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Packages we are using:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- math_expressions: [link](https://pub.dev/packages/math_expressions)
