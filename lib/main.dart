@@ -22,7 +22,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   var userInput = '';
-  var answer = '';
+  var answer = '0';
 
   final List<String> buttons = [
     'C',

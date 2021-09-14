@@ -2,7 +2,7 @@
 
 ![](https://ik.imagekit.io/kouseina/calculator-flutter/banner_kEm_ld15T.jpg?updatedAt=1631519706621)
 
-## [Watch it](https://www.youtube.com/watch?v=EmtM4cx7858)
+## [Watch it](https://youtu.be/BGEM2e_g1rA)
 
 
 #### Packages we are using:
